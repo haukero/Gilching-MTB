@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2" version="1.1" creator="murbit GPX Tracker">
+<metadata>
+    <name>Gravel Tracks Layer, v1, 12.11.2022</name>
+    <author>
+        <name>Rico Hauke, haukero@gmail.com</name>
+        <link href="https://gpx.studio"></link>
+    </author>
+</metadata>
+<trk>
+    <name>Gravel Track 1, 12.11.2022</name>
+    <trkseg>
+    <trkpt lat="48.107291648754" lon="11.281549226639"><ele>573.7</ele></trkpt>
+    <trkpt lat="48.107270176633" lon="11.281501609678"><ele>570.8</ele></trkpt>
+    <trkpt lat="48.107222839858" lon="11.281484234678"><ele>569.3</ele></trkpt>
+    <trkpt lat="48.107213572485" lon="11.281455596624"><ele>568.9</ele></trkpt>
+    <trkpt lat="48.107179632443" lon="11.281466549112"><ele>568.4</ele></trkpt>
+    <trkpt lat="48.107148177909" lon="11.281426455152"><ele>567.1</ele></trkpt>
+    <trkpt lat="48.107105531133" lon="11.281433021854"><ele>567.9</ele></trkpt>
+    <trkpt lat="48.107068822798" lon="11.281412807412"><ele>568.0</ele></trkpt>
+    <trkpt lat="48.107026306412" lon="11.281435454308"><ele>567.1</ele></trkpt>
+    <trkpt lat="48.106898436995" lon="11.281457674248"><ele>564.4</ele></trkpt>
+    <trkpt lat="48.106872987487" lon="11.2814274174">  <ele>565.6</ele></trkpt>
+    <trkpt lat="48.10680891059"  lon="11.281417604385"><ele>565.9</ele></trkpt>
+    <trkpt lat="48.10676294884"  lon="11.281428099201"><ele>565.7</ele></trkpt>
+    <trkpt lat="48.10663089002"  lon="11.281380368072"><ele>564.7</ele></trkpt>
+    <trkpt lat="48.106560533458" lon="11.281292465045"><ele>564.7</ele></trkpt>
+    <trkpt lat="48.106544953891" lon="11.28129488134"> <ele>564.2</ele></trkpt>
+    <trkpt lat="48.106395160352" lon="11.281152105462"><ele>562.5</ele></trkpt>
+    <trkpt lat="48.106226885845" lon="11.280957782806"><ele>562.5</ele></trkpt>
+    <trkpt lat="48.106190162394" lon="11.280934929464"><ele>563.4</ele></trkpt>
+    <trkpt lat="48.106142535383" lon="11.280931395761"><ele>564.9</ele></trkpt>
+    </trkseg>
+</trk>
+<trk>
+    <name>Gravel Track 2, 12.11.2022</name>
+    <trkseg>
+    <trkpt lat="48.103065169461" lon="11.281092334549"><ele>568.6</ele></trkpt>
+    <trkpt lat="48.103066007652" lon="11.281077414762"><ele>567.4</ele></trkpt>
+    <trkpt lat="48.103085731577" lon="11.281054465234"><ele>567.4</ele></trkpt>
+    <trkpt lat="48.103161536551" lon="11.280846761343"><ele>567.5</ele></trkpt>
+    <trkpt lat="48.10322331077"  lon="11.280702759324"><ele>566.5</ele></trkpt>
+    <trkpt lat="48.103236616257" lon="11.280660230809"><ele>567.0</ele></trkpt>
+    <trkpt lat="48.103332594615" lon="11.280453160101"><ele>566.3</ele></trkpt>
+    <trkpt lat="48.103347375848" lon="11.280414890394"><ele>565.4</ele></trkpt>
+    <trkpt lat="48.103361355456" lon="11.280366004806"><ele>565.0</ele></trkpt>
+    <trkpt lat="48.103386631469" lon="11.280334309095"><ele>565.6</ele></trkpt>
+    <trkpt lat="48.103448654304" lon="11.280217110273"><ele>564.1</ele></trkpt>
+    <trkpt lat="48.103449333767" lon="11.280198719837"><ele>565.7</ele></trkpt>
+    <trkpt lat="48.103484623531" lon="11.280123548171"><ele>564.7</ele></trkpt>
+    <trkpt lat="48.103520221486" lon="11.280029095917"><ele>563.1</ele></trkpt>
+    <trkpt lat="48.103531141487" lon="11.280016942356"><ele>563.6</ele></trkpt>
+    <trkpt lat="48.103652282173" lon="11.279728258248"><ele>566.0</ele></trkpt>
+    <trkpt lat="48.103678136636" lon="11.279651408474"><ele>564.0</ele></trkpt>
+    <trkpt lat="48.1037454245"   lon="11.279479343588"><ele>563.3</ele></trkpt>
+    <trkpt lat="48.103761346834" lon="11.279420707447"><ele>563.0</ele></trkpt>
+    <trkpt lat="48.103792739017" lon="11.279350332295"><ele>564.6</ele></trkpt>
+    </trkseg>
+</trk>
+</gpx>

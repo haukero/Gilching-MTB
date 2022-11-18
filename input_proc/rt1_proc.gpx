@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2" version="1.1" creator="murbit GPX Tracker">
+<metadata>
+    <name>rt1_orig</name>
+    <author>
+        <name>gpx.studio</name>
+        <link href="https://gpx.studio"></link>
+    </author>
+</metadata>
+<trk>
+    <name>rt1_orig</name>
+    <type>Cycling</type>
+    <trkseg>
+    <trkpt lat="48.106359637379" lon="11.283031383326">
+        <ele>560.5</ele>
+    </trkpt>
+    <trkpt lat="48.106397402026" lon="11.282987914322">
+        <ele>562.2</ele>
+    </trkpt>
+    <trkpt lat="48.106505510625" lon="11.283000625664">
+        <ele>561.3</ele>
+    </trkpt>
+    <trkpt lat="48.106621883543" lon="11.283050089089">
+        <ele>560.9</ele>
+    </trkpt>
+    <trkpt lat="48.106706007403" lon="11.282983071749">
+        <ele>561.3</ele>
+    </trkpt>
+    <trkpt lat="48.106723361466" lon="11.28294943367">
+        <ele>562.1</ele>
+    </trkpt>
+    <trkpt lat="48.106757077745" lon="11.282938622163">
+        <ele>560.8</ele>
+    </trkpt>
+    <trkpt lat="48.106793574022" lon="11.282943323668">
+        <ele>561.0</ele>
+    </trkpt>
+    <trkpt lat="48.106801282082" lon="11.282972293075">
+        <ele>560.3</ele>
+    </trkpt>
+    <trkpt lat="48.106865976721" lon="11.283002903875">
+        <ele>560.9</ele>
+    </trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2" version="1.1" creator="murbit GPX Tracker">
+<metadata>
+    <name>st2_orig</name>
+    <author>
+        <name>gpx.studio</name>
+        <link href="https://gpx.studio"></link>
+    </author>
+</metadata>
+<trk>
+    <name>st2_orig</name>
+    <type>Cycling</type>
+    <trkseg>
+    <trkpt lat="48.106770180211" lon="11.280940538283">
+        <ele>565.6</ele>
+    </trkpt>
+    <trkpt lat="48.106785393365" lon="11.280943807225">
+        <ele>565.8</ele>
+    </trkpt>
+    <trkpt lat="48.106884583401" lon="11.280919796748">
+        <ele>566.0</ele>
+    </trkpt>
+    <trkpt lat="48.107037055894" lon="11.280979374814">
+        <ele>564.6</ele>
+    </trkpt>
+    <trkpt lat="48.107096442131" lon="11.280989567329">
+        <ele>565.2</ele>
+    </trkpt>
+    <trkpt lat="48.107273298034" lon="11.280960026894">
+        <ele>566.6</ele>
+    </trkpt>
+    <trkpt lat="48.107291235819" lon="11.280914435399">
+        <ele>565.6</ele>
+    </trkpt>
+    <trkpt lat="48.107314498893" lon="11.280915463969">
+        <ele>565.8</ele>
+    </trkpt>
+    <trkpt lat="48.107362775335" lon="11.280896920227">
+        <ele>566.2</ele>
+    </trkpt>
+    <trkpt lat="48.107449768872" lon="11.280935462719">
+        <ele>565.9</ele>
+    </trkpt>
+    <trkpt lat="48.107469015355" lon="11.280926280133">
+        <ele>565.8</ele>
+    </trkpt>
+    </trkseg>
+</trk>
+</gpx>
