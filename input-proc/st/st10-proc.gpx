@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2" version="1.1" creator="murbit GPX Tracker">
+<metadata>
+    <name>st10-orig</name>
+    <author>
+        <name>gpx.studio</name>
+        <link href="https://gpx.studio"></link>
+    </author>
+</metadata>
+<trk>
+    <name>st10-orig</name>
+    <type>Cycling</type>
+    <trkseg>
+    <trkpt lat="48.110051569574" lon="11.293766861792">
+        <ele>558.7</ele>
+    </trkpt>
+    <trkpt lat="48.110098234937" lon="11.293770804614">
+        <ele>556.5</ele>
+    </trkpt>
+    <trkpt lat="48.110199492695" lon="11.293837343345">
+        <ele>553.8</ele>
+    </trkpt>
+    <trkpt lat="48.110240210171" lon="11.293878022009">
+        <ele>552.7</ele>
+    </trkpt>
+    <trkpt lat="48.110272161814" lon="11.29394915298">
+        <ele>557.4</ele>
+    </trkpt>
+    <trkpt lat="48.110366788457" lon="11.293964515475">
+        <ele>558.2</ele>
+    </trkpt>
+    <trkpt lat="48.110395630657" lon="11.294006130354">
+        <ele>556.9</ele>
+    </trkpt>
+    </trkseg>
+</trk>
+</gpx>
