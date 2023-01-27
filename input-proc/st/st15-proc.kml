@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>st15-orig</name>
+    <Style id="icon-123-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/123-red-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-123-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/123-red-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-123">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-123-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-123-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-61-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/61-green-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-61-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/61-green-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-61">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-61-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-61-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-0288D1-5000-normal">
+      <LineStyle>
+        <color>ffd18802</color>
+        <width>5</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-0288D1-5000-highlight">
+      <LineStyle>
+        <color>ffd18802</color>
+        <width>7.5</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-0288D1-5000">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-0288D1-5000-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-0288D1-5000-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name><![CDATA[Start von "st15-orig"]]></name>
+      <description>Höhe: 563 m</description>
+      <styleUrl>#icon-61</styleUrl>
+      <Point>
+        <coordinates>
+          11.28343069642,48.101105521629,562.5
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Ende von "st15-orig"]]></name>
+      <description>Höhe: 570 m</description>
+      <styleUrl>#icon-123</styleUrl>
+      <Point>
+        <coordinates>
+          11.2821895256639,48.0999587856988,570.3
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>st15-orig</name>
+      <description><![CDATA[Die Statistiken basieren auf importierten Daten.<br><br>Entfernung: 0,2 km<br>Minimale Höhe: 563 m<br>Maximale Höhe: 565 m<br>Anstieg (insgesamt): 3 m<br>Gefälle (insgesamt): 0 m]]></description>
+      <styleUrl>#line-0288D1-5000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          11.28343069642,48.101105521629,562.5
+          11.283365598636,48.101028842988,561.7
+          11.283319007155,48.100993927846,562.3
+          11.283292138459,48.100943406054,562.3
+          11.28321021834,48.100877544781,562.5
+          11.283174680863,48.100812217574,563.1
+          11.283135541799,48.10077852803,563.1
+          11.283111152641,48.100769995679,563.2
+          11.283019730897,48.100670474976,564
+          11.283008168987,48.100646568434,563.9
+          11.282875126418,48.100553695335,565.2
+          11.282812398708,48.100493024668,564.7
+          11.28279152452,48.100462897171,564.4
+          11.282725708101,48.100416927972,564.9
+          11.282727914804,48.100406842888,564
+          11.282610966633,48.100307889844,564.1
+          11.28258459333,48.100270243212,564.1
+          11.282479074432,48.10016447386,563.6
+          11.282422498368,48.100123488011,563.5
+          11.282340823172,48.100043507361,570.5
+          11.2821895256639,48.0999587856988,570.3
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>

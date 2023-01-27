@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>rt8-proc</name>
+    <Style id="icon-123-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/123-red-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-123-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/123-red-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-123">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-123-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-123-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-61-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/61-green-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-61-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/61-green-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-61">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-61-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-61-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-0288D1-5000-normal">
+      <LineStyle>
+        <color>ffd18802</color>
+        <width>5</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-0288D1-5000-highlight">
+      <LineStyle>
+        <color>ffd18802</color>
+        <width>7.5</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-0288D1-5000">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-0288D1-5000-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-0288D1-5000-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name><![CDATA[Start von "rt8-orig"]]></name>
+      <description>Höhe: 568 m</description>
+      <styleUrl>#icon-61</styleUrl>
+      <Point>
+        <coordinates>
+          11.2814073264599,48.1023588048005,567.5
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Ende von "rt8-orig"]]></name>
+      <description>Höhe: 574 m</description>
+      <styleUrl>#icon-123</styleUrl>
+      <Point>
+        <coordinates>
+          11.2806190922856,48.1015272407588,574.2
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>rt8-orig</name>
+      <description><![CDATA[Die Statistiken basieren auf importierten Daten.<br><br>Entfernung: 0,1 km<br>Minimale Höhe: 560 m<br>Maximale Höhe: 564 m<br>Anstieg (insgesamt): 5 m<br>Gefälle (insgesamt): 0 m]]></description>
+      <styleUrl>#line-0288D1-5000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          11.2814073264599,48.1023588048005,567.5
+          11.28144852837,48.102322930152,557.6
+          11.281442885506,48.102283025574,558
+          11.281371162486,48.102217401628,558.1
+          11.281216793005,48.102115053866,558.5
+          11.281166569283,48.102031848262,559.4
+          11.2811061095,48.101999412192,559.6
+          11.281046245636,48.101915336795,559.9
+          11.280977818126,48.101885913043,559.9
+          11.280897330313,48.101807020482,558.9
+          11.2808377898,48.101773002788,559.8
+          11.280791289707,48.10171531706,560.4
+          11.280694752754,48.101662888743,560.6
+          11.280662421117,48.101605389711,561.2
+          11.2806255483686,48.1015888347459,573.7
+          11.2806223203271,48.1015580377616,573.9
+          11.2806190922856,48.1015272407588,574.2
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>
